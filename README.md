@@ -37,7 +37,7 @@ Total: **10,095** lines of code across **50** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 22 · **Forks**: 1 · **Open issues**: 11 · **Contributors**: 3
+- **Stars**: 23 · **Forks**: 1 · **Open issues**: 11 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -71,4 +71,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T03:48:14Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:45:41Z._
