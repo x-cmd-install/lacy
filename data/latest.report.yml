@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.8.20"
   latestRelease: "v1.8.20"
   latestPrerelease: "v1.7.11-beta.1"
-  collectedAt: 2026-09-11T03:48:08Z
+  collectedAt: 2026-09-11T20:45:34Z
 timeline:
   created: 2025-08-18
   lastCommit: 2026-08-15
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-05-25
   lastPrerelease: 2026-02-16
 popularity:
-  star: 22
+  star: 23
   watcher: 0
   fork: 1
   release: 52
@@ -86,7 +86,7 @@ total:
   commit: 262
 ---
 path: /home/runner/.x-repo/github.com/lacymorrow/lacy
-collectedAt: 2026-09-11T03:48:10Z
+collectedAt: 2026-09-11T20:45:37Z
 loc:
   Sh:
     code: 4219
