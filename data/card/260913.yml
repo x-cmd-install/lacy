@@ -146,4 +146,3 @@ total:
 ---
 
 ---
-{"id":329044726,"author":{"login":"lacymorrow","id":1311301,"node_id":"MDQ6VXNlcjEzMTEzMDE=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPgC4ws4TnNL2","tag_name":"v1.8.20","target_commitish":"main","name":"v1.8.20","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-05-25T20:00:33Z","updated_at":"2026-05-25T20:00:39Z","published_at":"2026-05-25T20:00:39Z","assets":[],"body":"## Changes\n\n- Release v1.8.20"}
