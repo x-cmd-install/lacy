@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/lacymorrow/lacy/releases/329044726",
-  "assets_url": "https://api.github.com/repos/lacymorrow/lacy/releases/329044726/assets",
-  "upload_url": "https://uploads.github.com/repos/lacymorrow/lacy/releases/329044726/assets{?name,label}",
-  "html_url": "https://github.com/lacymorrow/lacy/releases/tag/v1.8.20",
-  "id": 329044726,
+  "url": "https://api.github.com/repos/lacymorrow/lacy/releases/388793629",
+  "assets_url": "https://api.github.com/repos/lacymorrow/lacy/releases/388793629/assets",
+  "upload_url": "https://uploads.github.com/repos/lacymorrow/lacy/releases/388793629/assets{?name,label}",
+  "html_url": "https://github.com/lacymorrow/lacy/releases/tag/v1.8.23",
+  "id": 388793629,
   "author": {
     "login": "lacymorrow",
     "id": 1311301,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPgC4ws4TnNL2",
-  "tag_name": "v1.8.20",
+  "node_id": "RE_kwDOPgC4ws4XLIUd",
+  "tag_name": "v1.8.23",
   "target_commitish": "main",
-  "name": "v1.8.20",
+  "name": "v1.8.23",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-05-25T20:00:33Z",
-  "updated_at": "2026-05-25T20:00:39Z",
-  "published_at": "2026-05-25T20:00:39Z",
+  "created_at": "2026-09-15T00:35:06Z",
+  "updated_at": "2026-09-15T00:35:10Z",
+  "published_at": "2026-09-15T00:35:10Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/lacymorrow/lacy/tarball/v1.8.20",
-  "zipball_url": "https://api.github.com/repos/lacymorrow/lacy/zipball/v1.8.20",
-  "body": "## Changes\n\n- Release v1.8.20"
+  "tarball_url": "https://api.github.com/repos/lacymorrow/lacy/tarball/v1.8.23",
+  "zipball_url": "https://api.github.com/repos/lacymorrow/lacy/zipball/v1.8.23",
+  "body": "## Changes\n\n### Other\n\n- auto commit (e2faa2a)"
 }

@@ -146,4 +146,3 @@ total:
 ---
 
 ---
-{"id":388793629,"author":{"login":"lacymorrow","id":1311301,"node_id":"MDQ6VXNlcjEzMTEzMDE=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPgC4ws4XLIUd","tag_name":"v1.8.23","target_commitish":"main","name":"v1.8.23","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-15T00:35:06Z","updated_at":"2026-09-15T00:35:10Z","published_at":"2026-09-15T00:35:10Z","assets":[],"body":"## Changes\n\n### Other\n\n- auto commit (e2faa2a)"}
