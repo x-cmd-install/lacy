@@ -4,7 +4,7 @@
 
 Talk to your shell — commands run, questions go to AI. No prefixes.
 
-![lacy](https://repo.x-cmd.io/lacy.svg)
+[![x-cmd/install — lacy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lacy.svg)](https://x-cmd.com/install/lacy)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **10,691** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 4 | 2 | 1 | 0 | 0 | 9 |
-| last60d | 2026-07-20 | 4 | 2 | 1 | 0 | 0 | 11 |
-| 90d | 2026-06-20 | 4 | 3 | 1 | 0 | 0 | 12 |
-| last180d | 2026-03-22 | 20 | 40 | 2 | 10 | 0 | 75 |
-| 360d | 2025-09-23 | 56 | 45 | 2 | 10 | 0 | 241 |
-| last720d | 2024-09-28 | 56 | 45 | 2 | 10 | 0 | 272 |
+| 30d | 2026-08-21 | 4 | 2 | 1 | 0 | 0 | 9 |
+| last60d | 2026-07-22 | 4 | 2 | 1 | 0 | 0 | 11 |
+| 90d | 2026-06-22 | 4 | 3 | 1 | 0 | 0 | 12 |
+| last180d | 2026-03-24 | 15 | 40 | 2 | 10 | 0 | 71 |
+| 360d | 2025-09-25 | 56 | 45 | 2 | 10 | 0 | 241 |
+| last720d | 2024-09-30 | 56 | 45 | 2 | 10 | 0 | 272 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:55:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:09:32Z._
