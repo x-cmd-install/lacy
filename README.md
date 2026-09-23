@@ -4,7 +4,7 @@
 
 Talk to your shell — commands run, questions go to AI. No prefixes.
 
-[![x-cmd/install — lacy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lacy.svg)](https://x-cmd.com/install/lacy)
+[![x-cmd/install — lacy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lacy.svg)](https://x-cmd.com/install/lacy)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install lacy
 
 ## Code insight
 
-Total: **10,691** lines of code across **48** files in the top 5 languages.
+Total: **10,750** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 5,844 | 1,131 | 871 | 23 |
+| Sh | 5,903 | 1,144 | 879 | 23 |
 | Bash | 1,682 | 242 | 307 | 9 |
 | Zsh | 1,190 | 336 | 235 | 8 |
 | Fish | 990 | 164 | 132 | 7 |
@@ -33,7 +33,7 @@ Total: **10,691** lines of code across **48** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.24` (2026-09-15)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **10,691** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 272
+- **Releases**: 56 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 4 | 2 | 1 | 0 | 0 | 9 |
-| last60d | 2026-07-24 | 4 | 2 | 1 | 0 | 0 | 11 |
-| 90d | 2026-06-24 | 4 | 3 | 1 | 0 | 0 | 12 |
-| last180d | 2026-03-26 | 15 | 40 | 2 | 10 | 0 | 71 |
-| 360d | 2025-09-27 | 56 | 45 | 2 | 10 | 0 | 241 |
-| last720d | 2024-10-02 | 56 | 45 | 2 | 10 | 0 | 272 |
+| 30d | 2026-08-24 | 4 | 2 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-25 | 4 | 2 | 1 | 0 | 0 | 13 |
+| 90d | 2026-06-25 | 4 | 3 | 1 | 0 | 0 | 14 |
+| last180d | 2026-03-27 | 15 | 40 | 2 | 10 | 0 | 73 |
+| 360d | 2025-09-28 | 56 | 45 | 2 | 10 | 0 | 243 |
+| last720d | 2024-10-03 | 56 | 45 | 2 | 10 | 0 | 274 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:03:55Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:00:50Z._
