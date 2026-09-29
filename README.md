@@ -41,18 +41,18 @@ Total: **10,766** lines of code across **48** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 46 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 275
+- **Releases**: 56 · **Merged PRs**: 46 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 4 | 3 | 0 | 0 | 0 | 12 |
-| last60d | 2026-07-30 | 4 | 3 | 0 | 0 | 0 | 14 |
-| 90d | 2026-06-30 | 4 | 4 | 0 | 0 | 0 | 15 |
-| last180d | 2026-04-01 | 15 | 41 | 1 | 10 | 0 | 74 |
-| 360d | 2025-10-03 | 56 | 46 | 1 | 10 | 0 | 244 |
-| last720d | 2024-10-08 | 56 | 46 | 1 | 10 | 0 | 275 |
+| 30d | 2026-08-30 | 4 | 3 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-31 | 4 | 3 | 1 | 0 | 0 | 14 |
+| 90d | 2026-07-01 | 4 | 3 | 1 | 0 | 0 | 15 |
+| last180d | 2026-04-02 | 15 | 41 | 2 | 10 | 0 | 74 |
+| 360d | 2025-10-04 | 56 | 46 | 2 | 10 | 0 | 244 |
+| last720d | 2024-10-09 | 56 | 46 | 2 | 10 | 0 | 275 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T04:31:16Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T04:59:50Z._
