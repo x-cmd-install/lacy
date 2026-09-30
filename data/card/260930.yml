@@ -141,4 +141,3 @@ total:
 ---
 
 ---
-{"id":399559658,"author":{"login":"lacymorrow","id":1311301,"node_id":"MDQ6VXNlcjEzMTEzMDE=","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOPgC4ws4X0Mvq","tag_name":"v1.8.26","target_commitish":"main","name":"v1.8.26","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-29T21:59:49Z","updated_at":"2026-09-29T22:00:08Z","published_at":"2026-09-29T22:00:08Z","assets":[],"body":"## Changes\n\n### Bug Fixes\n\n- show tool errors instead of silence; gemini sign-in; drop amp (#78) (7906538)\n\n### Other\n\n- Live smoke test for every AI tool; refuse tools that aren't installed (#77) (b97d794)"}
