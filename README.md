@@ -14,15 +14,15 @@ x install lacy
 
 ## Code insight
 
-Total: **10,766** lines of code across **48** files in the top 5 languages.
+Total: **11,374** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 5,903 | 1,144 | 879 | 23 |
-| Bash | 1,682 | 242 | 307 | 9 |
-| Zsh | 1,190 | 336 | 235 | 8 |
-| Fish | 990 | 164 | 132 | 7 |
-| JavaScript | 770 | 35 | 75 | 1 |
+| Sh | 6,300 | 1,212 | 906 | 24 |
+| Bash | 1,678 | 242 | 307 | 9 |
+| Zsh | 1,208 | 349 | 237 | 8 |
+| Fish | 987 | 164 | 132 | 7 |
+| JavaScript | 796 | 37 | 76 | 1 |
 
 ## Source
 
@@ -32,27 +32,27 @@ Total: **10,766** lines of code across **48** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.24` (2026-09-15)
-- **Last commit**: 2026-09-25
+- **Latest**: `v1.8.26` (2026-09-29)
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
-- **Stars**: 23 · **Forks**: 1 · **Open issues**: 11 · **Contributors**: 3
+- **Stars**: 24 · **Forks**: 2 · **Open issues**: 11 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 46 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 275
+- **Releases**: 58 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 4 | 3 | 1 | 0 | 0 | 12 |
-| last60d | 2026-07-31 | 4 | 3 | 1 | 0 | 0 | 14 |
-| 90d | 2026-07-01 | 4 | 3 | 1 | 0 | 0 | 15 |
-| last180d | 2026-04-02 | 15 | 41 | 2 | 10 | 0 | 74 |
-| 360d | 2025-10-04 | 56 | 46 | 2 | 10 | 0 | 244 |
-| last720d | 2024-10-09 | 56 | 46 | 2 | 10 | 0 | 275 |
+| 30d | 2026-08-31 | 6 | 7 | 0 | 0 | 0 | 18 |
+| last60d | 2026-08-01 | 6 | 7 | 0 | 0 | 0 | 20 |
+| 90d | 2026-07-02 | 6 | 7 | 0 | 0 | 0 | 21 |
+| last180d | 2026-04-03 | 17 | 45 | 1 | 10 | 0 | 80 |
+| 360d | 2025-10-05 | 58 | 50 | 1 | 10 | 0 | 250 |
+| last720d | 2024-10-10 | 58 | 50 | 1 | 10 | 0 | 281 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T04:59:50Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T04:46:45Z._
