@@ -14,15 +14,15 @@ x install lacy
 
 ## Code insight
 
-Total: **11,374** lines of code across **49** files in the top 5 languages.
+Total: **11,793** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 6,300 | 1,212 | 906 | 24 |
+| Sh | 6,451 | 1,241 | 934 | 24 |
 | Bash | 1,678 | 242 | 307 | 9 |
 | Zsh | 1,208 | 349 | 237 | 8 |
 | Fish | 987 | 164 | 132 | 7 |
-| JavaScript | 796 | 37 | 76 | 1 |
+| JavaScript | 797 | 37 | 76 | 1 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **11,374** lines of code across **49** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.8.26` (2026-09-29)
+- **Latest**: `v1.8.28` (2026-09-30)
 - **Last commit**: 2026-09-30
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **11,374** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 58 · **Merged PRs**: 50 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 281
+- **Releases**: 60 · **Merged PRs**: 51 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 0 · **Commits**: 284
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 6 | 7 | 0 | 0 | 0 | 18 |
-| last60d | 2026-08-01 | 6 | 7 | 0 | 0 | 0 | 20 |
-| 90d | 2026-07-02 | 6 | 7 | 0 | 0 | 0 | 21 |
-| last180d | 2026-04-03 | 17 | 45 | 1 | 10 | 0 | 80 |
-| 360d | 2025-10-05 | 58 | 50 | 1 | 10 | 0 | 250 |
-| last720d | 2024-10-10 | 58 | 50 | 1 | 10 | 0 | 281 |
+| 30d | 2026-09-01 | 8 | 8 | 0 | 0 | 0 | 21 |
+| last60d | 2026-08-02 | 8 | 8 | 0 | 0 | 0 | 23 |
+| 90d | 2026-07-03 | 8 | 8 | 0 | 0 | 0 | 24 |
+| last180d | 2026-04-04 | 19 | 46 | 1 | 10 | 0 | 83 |
+| 360d | 2025-10-06 | 60 | 51 | 1 | 10 | 0 | 253 |
+| last720d | 2024-10-11 | 60 | 51 | 1 | 10 | 0 | 284 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T04:46:45Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T04:59:23Z._
