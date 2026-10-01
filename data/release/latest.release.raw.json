@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/lacymorrow/lacy/releases/399559658",
-  "assets_url": "https://api.github.com/repos/lacymorrow/lacy/releases/399559658/assets",
-  "upload_url": "https://uploads.github.com/repos/lacymorrow/lacy/releases/399559658/assets{?name,label}",
-  "html_url": "https://github.com/lacymorrow/lacy/releases/tag/v1.8.26",
-  "id": 399559658,
+  "url": "https://api.github.com/repos/lacymorrow/lacy/releases/400459462",
+  "assets_url": "https://api.github.com/repos/lacymorrow/lacy/releases/400459462/assets",
+  "upload_url": "https://uploads.github.com/repos/lacymorrow/lacy/releases/400459462/assets{?name,label}",
+  "html_url": "https://github.com/lacymorrow/lacy/releases/tag/v1.8.28",
+  "id": 400459462,
   "author": {
     "login": "lacymorrow",
     "id": 1311301,
@@ -25,20 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPgC4ws4X0Mvq",
-  "tag_name": "v1.8.26",
+  "node_id": "RE_kwDOPgC4ws4X3obG",
+  "tag_name": "v1.8.28",
   "target_commitish": "main",
-  "name": "v1.8.26",
+  "name": "v1.8.28",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-29T21:59:49Z",
-  "updated_at": "2026-09-29T22:00:08Z",
-  "published_at": "2026-09-29T22:00:08Z",
+  "created_at": "2026-09-30T21:43:29Z",
+  "updated_at": "2026-09-30T21:43:33Z",
+  "published_at": "2026-09-30T21:43:33Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/lacymorrow/lacy/tarball/v1.8.26",
-  "zipball_url": "https://api.github.com/repos/lacymorrow/lacy/zipball/v1.8.26",
-  "body": "## Changes\n\n### Bug Fixes\n\n- show tool errors instead of silence; gemini sign-in; drop amp (#78) (7906538)\n\n### Other\n\n- Live smoke test for every AI tool; refuse tools that aren't installed (#77) (b97d794)"
+  "tarball_url": "https://api.github.com/repos/lacymorrow/lacy/tarball/v1.8.28",
+  "zipball_url": "https://api.github.com/repos/lacymorrow/lacy/zipball/v1.8.28",
+  "body": "## Changes\n\n- Release v1.8.28"
 }
