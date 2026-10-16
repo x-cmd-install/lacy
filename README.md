@@ -14,14 +14,14 @@ x install lacy
 
 ## Code insight
 
-Total: **11,890** lines of code across **49** files in the top 5 languages.
+Total: **11,907** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 6,526 | 1,254 | 939 | 24 |
+| Sh | 6,535 | 1,257 | 941 | 24 |
 | Bash | 1,678 | 242 | 307 | 9 |
 | Zsh | 1,226 | 352 | 238 | 8 |
-| Fish | 987 | 164 | 132 | 7 |
+| Fish | 995 | 167 | 134 | 7 |
 | JavaScript | 798 | 37 | 76 | 1 |
 
 ## Source
@@ -33,26 +33,26 @@ Total: **11,890** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.28` (2026-09-30)
-- **Last commit**: 2026-10-11
+- **Last commit**: 2026-10-15
 
 ## Popularity
 
-- **Stars**: 28 · **Forks**: 2 · **Open issues**: 13 · **Contributors**: 3
+- **Stars**: 28 · **Forks**: 3 · **Open issues**: 13 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 53 · **Open PRs**: 2 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 286
+- **Releases**: 60 · **Merged PRs**: 54 · **Open PRs**: 2 · **Closed issues**: 12 · **Open issues**: 1 · **Commits**: 287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 7 | 8 | 1 | 0 | 2 | 14 |
-| last60d | 2026-08-16 | 8 | 10 | 1 | 0 | 2 | 23 |
-| 90d | 2026-07-17 | 8 | 10 | 1 | 0 | 2 | 25 |
-| last180d | 2026-04-18 | 19 | 48 | 2 | 10 | 2 | 85 |
-| 360d | 2025-10-20 | 60 | 53 | 2 | 10 | 2 | 255 |
-| last720d | 2024-10-25 | 60 | 53 | 2 | 10 | 2 | 286 |
+| 30d | 2026-09-16 | 4 | 9 | 1 | 1 | 1 | 15 |
+| last60d | 2026-08-17 | 8 | 11 | 1 | 1 | 1 | 24 |
+| 90d | 2026-07-18 | 8 | 11 | 1 | 1 | 1 | 26 |
+| last180d | 2026-04-19 | 19 | 49 | 2 | 11 | 1 | 86 |
+| 360d | 2025-10-21 | 60 | 54 | 2 | 11 | 1 | 256 |
+| last720d | 2024-10-26 | 60 | 54 | 2 | 11 | 1 | 287 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T03:53:45Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T03:49:19Z._
