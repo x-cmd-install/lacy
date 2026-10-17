@@ -47,12 +47,12 @@ Total: **11,907** lines of code across **49** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 4 | 9 | 1 | 1 | 1 | 15 |
-| last60d | 2026-08-17 | 8 | 11 | 1 | 1 | 1 | 24 |
-| 90d | 2026-07-18 | 8 | 11 | 1 | 1 | 1 | 26 |
-| last180d | 2026-04-19 | 19 | 49 | 2 | 11 | 1 | 86 |
-| 360d | 2025-10-21 | 60 | 54 | 2 | 11 | 1 | 256 |
-| last720d | 2024-10-26 | 60 | 54 | 2 | 11 | 1 | 287 |
+| 30d | 2026-09-17 | 4 | 9 | 1 | 1 | 1 | 15 |
+| last60d | 2026-08-18 | 8 | 11 | 1 | 1 | 1 | 24 |
+| 90d | 2026-07-19 | 8 | 11 | 1 | 1 | 1 | 26 |
+| last180d | 2026-04-20 | 19 | 49 | 2 | 11 | 1 | 86 |
+| 360d | 2025-10-22 | 60 | 54 | 2 | 11 | 1 | 256 |
+| last720d | 2024-10-27 | 60 | 54 | 2 | 11 | 1 | 287 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T03:49:19Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T03:39:08Z._
