@@ -14,11 +14,11 @@ x install lacy
 
 ## Code insight
 
-Total: **11,943** lines of code across **49** files in the top 5 languages.
+Total: **11,958** lines of code across **49** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Sh | 6,557 | 1,272 | 948 | 24 |
+| Sh | 6,572 | 1,276 | 951 | 24 |
 | Bash | 1,678 | 242 | 307 | 9 |
 | Zsh | 1,226 | 352 | 238 | 8 |
 | Fish | 995 | 167 | 134 | 7 |
@@ -33,7 +33,7 @@ Total: **11,943** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.29` (2026-10-18)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-21
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **11,943** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 55 · **Open PRs**: 3 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 290
+- **Releases**: 61 · **Merged PRs**: 56 · **Open PRs**: 3 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 291
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 5 | 10 | 2 | 2 | 1 | 15 |
-| last60d | 2026-08-21 | 9 | 12 | 2 | 2 | 1 | 27 |
-| 90d | 2026-07-22 | 9 | 12 | 2 | 2 | 1 | 29 |
-| last180d | 2026-04-23 | 19 | 44 | 3 | 12 | 1 | 82 |
-| 360d | 2025-10-25 | 61 | 55 | 3 | 12 | 1 | 259 |
-| last720d | 2024-10-30 | 61 | 55 | 3 | 12 | 1 | 290 |
+| 30d | 2026-09-21 | 5 | 10 | 2 | 2 | 1 | 16 |
+| last60d | 2026-08-22 | 9 | 13 | 2 | 2 | 1 | 28 |
+| 90d | 2026-07-23 | 9 | 13 | 2 | 2 | 1 | 30 |
+| last180d | 2026-04-24 | 19 | 45 | 3 | 12 | 1 | 83 |
+| 360d | 2025-10-26 | 61 | 56 | 3 | 12 | 1 | 260 |
+| last720d | 2024-10-31 | 61 | 56 | 3 | 12 | 1 | 291 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:07:47Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T03:56:11Z._
