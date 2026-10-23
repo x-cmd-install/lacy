@@ -1,0 +1,45 @@
+- repo: aur
+  srcname: lacy
+  binname: lacy
+  visiblename: lacy
+  version: v0.7.1
+  origversion: v0.7.1-1
+  status: outdated
+  summary: Fast magical cd alternative for lacy terminal navigators
+  maintainers:
+    - pheenty@aur
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: lacy
+  visiblename: lacy
+  version: 0.6.0
+  origversion: null
+  status: outdated
+  summary: Fast magical cd alternative for lacy terminal navigators
+  maintainers:
+    - srylax+nixpkgs@srylax.dev
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: lacy
+  visiblename: lacy
+  version: 0.7.0
+  origversion: null
+  status: outdated
+  summary: Fast magical cd alternative for lacy terminal navigators
+  maintainers:
+    - srylax+nixpkgs@srylax.dev
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: lacy
+  visiblename: lacy
+  version: 0.7.1
+  origversion: null
+  status: newest
+  summary: Fast magical cd alternative for lacy terminal navigators
+  maintainers:
+    - srylax+nixpkgs@srylax.dev
+  licenses:
+    - MIT
