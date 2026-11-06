@@ -33,7 +33,7 @@ Total: **11,958** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.29` (2026-10-18)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
@@ -41,18 +41,18 @@ Total: **11,958** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 56 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 291
+- **Releases**: 61 · **Merged PRs**: 57 · **Open PRs**: 2 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 5 | 2 | 2 | 1 | 7 |
-| last60d | 2026-09-06 | 9 | 13 | 2 | 2 | 1 | 28 |
-| 90d | 2026-08-07 | 9 | 13 | 2 | 2 | 1 | 30 |
-| last180d | 2026-05-09 | 18 | 43 | 2 | 2 | 1 | 74 |
-| 360d | 2025-11-10 | 61 | 56 | 2 | 12 | 1 | 260 |
-| last720d | 2024-11-15 | 61 | 56 | 2 | 12 | 1 | 291 |
+| 30d | 2026-10-07 | 1 | 6 | 2 | 2 | 1 | 8 |
+| last60d | 2026-09-07 | 9 | 14 | 2 | 2 | 1 | 29 |
+| 90d | 2026-08-08 | 9 | 14 | 2 | 2 | 1 | 31 |
+| last180d | 2026-05-10 | 18 | 44 | 2 | 2 | 1 | 75 |
+| 360d | 2025-11-11 | 61 | 57 | 2 | 12 | 1 | 261 |
+| last720d | 2024-11-16 | 61 | 57 | 2 | 12 | 1 | 292 |
 
 ## Distribution status
 
@@ -71,4 +71,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:50:55Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:46:43Z._
