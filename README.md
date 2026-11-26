@@ -33,7 +33,7 @@ Total: **11,960** lines of code across **49** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.29` (2026-10-18)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
@@ -41,26 +41,18 @@ Total: **11,960** lines of code across **49** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 61 · **Merged PRs**: 58 · **Open PRs**: 4 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 293
+- **Releases**: 61 · **Merged PRs**: 60 · **Open PRs**: 4 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 295
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 2 | 2 | 0 | 0 | 2 |
-| last60d | 2026-09-26 | 5 | 12 | 4 | 2 | 1 | 12 |
-| 90d | 2026-08-27 | 9 | 15 | 4 | 2 | 1 | 30 |
-| last180d | 2026-05-29 | 9 | 17 | 4 | 2 | 1 | 35 |
-| 360d | 2025-11-30 | 61 | 58 | 4 | 12 | 1 | 262 |
-| last720d | 2024-12-05 | 61 | 58 | 4 | 12 | 1 | 293 |
-
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/lacy). **1** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Nix unstable | `0.7.1` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 4 | 2 | 0 | 0 | 4 |
+| last60d | 2026-09-27 | 5 | 14 | 4 | 2 | 1 | 14 |
+| 90d | 2026-08-28 | 9 | 17 | 4 | 2 | 1 | 32 |
+| last180d | 2026-05-30 | 9 | 19 | 4 | 2 | 1 | 37 |
+| 360d | 2025-12-01 | 61 | 60 | 4 | 12 | 1 | 264 |
+| last720d | 2024-12-06 | 61 | 60 | 4 | 12 | 1 | 295 |
 
 ## Improve this data
 
@@ -71,4 +63,4 @@ Install metadata for lacy lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T07:42:57Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T07:33:17Z._
